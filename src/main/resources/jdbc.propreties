@@ -1,0 +1,4 @@
+driverClass=com.mysql.jdbc.Driver
+url=jdbc:mysql://10.0.3.200:3306/atzuchedb
+user=autoDev
+password=auto2015
